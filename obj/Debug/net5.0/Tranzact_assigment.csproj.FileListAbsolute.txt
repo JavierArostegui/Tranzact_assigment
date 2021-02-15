@@ -1,0 +1,16 @@
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\Tranzact_assigment.exe
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\Tranzact_assigment.deps.json
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\Tranzact_assigment.runtimeconfig.json
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\Tranzact_assigment.runtimeconfig.dev.json
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\Tranzact_assigment.dll
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\ref\Tranzact_assigment.dll
+D:\Javier\Tranzact\Tranzact_assigment\bin\Debug\net5.0\Tranzact_assigment.pdb
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.csprojAssemblyReference.cache
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.AssemblyInfoInputs.cache
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.AssemblyInfo.cs
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.csproj.CoreCompileInputs.cache
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.dll
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\ref\Tranzact_assigment.dll
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.pdb
+D:\Javier\Tranzact\Tranzact_assigment\obj\Debug\net5.0\Tranzact_assigment.genruntimeconfig.cache
