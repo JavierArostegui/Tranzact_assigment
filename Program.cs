@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;  
+using System.Collections.Generic;
+using System.IO;  
 
 namespace Tranzact_assigment
 {
@@ -7,7 +8,12 @@ namespace Tranzact_assigment
     {
         static void Main(string[] args)
         {
-            ProccessTranzact();
+            bool exists = Directory.Exists(Resources.FilesPath);
+
+            if(!exists)
+                Directory.CreateDirectory(Resources.FilesPath);
+
+            ProccessTranzact();            
             Console.Read();
         }
 

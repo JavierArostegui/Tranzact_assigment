@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Javier\\Tranzact\\Tranzact_assigment\\Tranzact_assigment.csproj",
+      "projectUniqueName": "D:\\Javier\\Tranzact\\Assigment\\Tranzact_assigment\\Tranzact_assigment.csproj",
       "projectName": "Tranzact_assigment",
-      "projectPath": "D:\\Javier\\Tranzact\\Tranzact_assigment\\Tranzact_assigment.csproj",
+      "projectPath": "D:\\Javier\\Tranzact\\Assigment\\Tranzact_assigment\\Tranzact_assigment.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "D:\\Javier\\Tranzact\\Tranzact_assigment\\obj\\",
+      "outputPath": "D:\\Javier\\Tranzact\\Assigment\\Tranzact_assigment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config"
